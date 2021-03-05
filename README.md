@@ -18,6 +18,8 @@ O projeto consiste em solucionar a requisição feita pela atividade, comentar o
 # Conhecimentos utilizados
 
 ## Java
+
+- Object-oriented programming (OOP)
 - Wrapper Classes
 - Encapsulation
 - Getters and Setters
