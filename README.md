@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 
-Atividade realizada durante o curso **Java COMPLETO Programação Orientada a Objetos +Projetos**, curso organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Atividade realizada durante o curso **Java COMPLETO Programação Orientada a Objetos +Projetos**, curso organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 
 O projeto consiste em solucionar a requisição feita pela atividade, comentar o código solidificando o motivo de cada escolha e outros caminhos possíveis.
